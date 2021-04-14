@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="hint">Введите название города или индекс</string>
+    <string name="buttonGetWeather">УЗНАТЬ ПОГОДУ</string>
+    <string name="background">Фон</string>
+    <string name="notFind">Совпадений не найдено, введите корректные данные</string>
+    <string name="isEmpty">Введите данные</string>
 </resources>
